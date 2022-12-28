@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+.random{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+}
+
+.item{
+    background-color: rgb(53, 3, 3);
+    width: 70px;
+    height: 50px;
+    border-radius: 25%;
+    color: white;
+    margin:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.tiger{
+        position: absolute;
+        top: 106px;
+        left: 105px;
+}
+
+.yak{
+    position: absolute;
+    left: 782px;
+    top: 26px;
+}
+
+.rhino{
+    position: absolute;
+    top: 1px;
+    left: 1172px;
+}
+
+.elephant{
+    position: absolute;
+    left: 1064px;
+    top: 95px;
+}
+
+.fox{
+    position: absolute;
+    left: 850px;
+    top: 141px;
+}
+
+.leo{
+    position: absolute;
+    left: 20px;
+    top: 410px;
+}
+
+.giraffe{
+    position: absolute;
+    left: 206px;
+    top: 372px;
+}
+
+.leopard{
+    position: absolute;
+    left: 499px;
+    top: 509px;
+}
+
+.igu{
+    position: absolute;
+    left: 726px;
+    top: 415px;
+}
+
+.tigor{
+    position: absolute;
+    left: 1103px;
+    top: 477px;
+}
